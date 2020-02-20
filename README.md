@@ -17,7 +17,7 @@ Projeto desenvolvido durante a Semana Omnistack 10, organizado pela [Rocketseat]
 - [ ] Entre na pasta backend e execute o comando **yarn dev**.
 - [ ] Entre na pasta frontend e execute o comando **yarn start**.
 
-Qualquer problema verifique o ip no arquivo api.js na pasta web/src/services/.
+Qualquer problema verifique o ip no arquivo api.js na pasta web/src/services/
 
 ## Inicializando Projeto no Mobile
 - [ ] Entre na pasta backend e execute o comando **yarn dev**.
