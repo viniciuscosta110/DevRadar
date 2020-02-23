@@ -1,11 +1,26 @@
 <h1 align="center">
-    DevRadar
+    <img alt="DevRadar" title="DevRadar" src="devradar.svg" width="250px" />
 </h1>
 
-## Descrição
+<p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Frontend" src="devradar.png" width="100%">
+</p>
+
+## 💻 Projeto
 Projeto desenvolvido durante a Semana Omnistack 10, organizado pela [Rocketseat](https://github.com/Rocketseat). Tem como objetivo localizar desenvolvedores que trabalham com as tecnologias que você busca.
 
-## Tecnologias
+## 🔖 Layout
+    
+
+## :rocket: Tecnologias
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
